@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/arafehr/static/css/main.fe927caf.css",
+    "main.js": "/arafehr/static/js/main.9dab4feb.js",
+    "static/js/787.4b24f717.chunk.js": "/arafehr/static/js/787.4b24f717.chunk.js",
+    "static/media/abdulRafehRahat.jpg": "/arafehr/static/media/abdulRafehRahat.e7c5f425565e622876ca.jpg",
+    "index.html": "/arafehr/index.html",
+    "main.fe927caf.css.map": "/arafehr/static/css/main.fe927caf.css.map",
+    "main.9dab4feb.js.map": "/arafehr/static/js/main.9dab4feb.js.map",
+    "787.4b24f717.chunk.js.map": "/arafehr/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe927caf.css",
+    "static/js/main.9dab4feb.js"
+  ]
+}
